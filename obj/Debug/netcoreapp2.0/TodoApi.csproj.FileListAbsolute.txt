@@ -1,0 +1,11 @@
+/Users/jim/Documents/Src/neocles/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/jim/Documents/Src/neocles/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/jim/Documents/Src/neocles/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/jim/Documents/Src/neocles/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/jim/Documents/Src/neocles/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/jim/Documents/Src/neocles/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
